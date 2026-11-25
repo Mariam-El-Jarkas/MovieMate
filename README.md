@@ -16,6 +16,10 @@ MovieMate is a movie journal and small social space for movie fans. Keep a
 personal record of what you have watched, rate and review films, save titles
 for later, and share your movie activity with friends.
 
+## Live demo
+
+[Open MovieMate](https://movie-mate-self-rho.vercel.app/login)
+
 ## What you can do
 
 | Capability | Description |
