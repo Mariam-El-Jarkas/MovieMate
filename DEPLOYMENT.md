@@ -69,9 +69,9 @@ npm ci
 npm run build
 ```
 
-For a Vercel frontend and a separate Railway backend, set `VITE_API_URL` to the
-Railway public HTTPS origin and set the backend's `CLIENT_URL` to the Vercel
-site's HTTPS origin. Redeploy the frontend after changing its environment
+For a Vercel frontend and a separate Render backend, set `VITE_API_URL` to the
+Render public HTTPS origin and set the backend's `CLIENT_URL` to the Vercel
+site's HTTPS origin. Redeploy both services after changing their environment
 variables.
 
 ## 5. Verify the deployment manually
